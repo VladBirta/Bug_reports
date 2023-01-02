@@ -1,6 +1,6 @@
 # Bug_reports
 
-Below are some bug reports that I did while working on some projects.
+Below are some bug reports that I did while working on previous projects.
 
 -----------------
 
