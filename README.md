@@ -16,9 +16,9 @@ The user is not logged in and no error message is displayed.
 
 **Steps to reproduce:**
 
-1.Go to www.website.com/login
-2.Add correct user/pass
-3.Press login button
+  1.Go to www.website.com/login
+  2.Add correct user/pass
+  3.Press login button
 
 
 **Expected result:**
@@ -53,9 +53,9 @@ When pressing them two buttons, while the user is on a certain category of gadge
 
 **Steps to reproduce:**
 
-Go to https://www.demoblaze.com/index.html
-Click on a product category
-Then press “Next“, then “Previous“
+  1. Go to https://www.demoblaze.com/index.html
+  2. Click on a product category
+  3. Then press “Next“, then “Previous“
 
 **Expected result:**
 
@@ -85,7 +85,7 @@ The nav-bar menu is way too indented.
 
 **Steps to reproduce:**
 
-1. Go to STORE
+  1. Go to STORE
 
 **Expected result:**
 
@@ -115,11 +115,11 @@ The login function can be done by accessing a different URL.
 
 **Steps to reproduce:**
 
-1.Go to STORE
-2.Log in
-3.Copy the URL
-4.Open a new tab
-5.Paste it the search bar
+  1.Go to STORE
+  2.Log in
+  3.Copy the URL
+  4.Open a new tab
+  5.Paste it the search bar
 
 **Expected result:**
 
@@ -149,9 +149,9 @@ The contact functionality works without entering the “Email” field or “Mes
 
 **Steps to reproduce:**
 
-1.Go to 
-2.Press the “Contact” button in the header
-3.Click “Send message“ button
+  1. Go to 
+  2. Press the “Contact” button in the header
+  3. Click “Send message“ button
 
 
 **Expected result:**
@@ -182,11 +182,11 @@ The placing order functionality works fine without any product in the cart.
 
 **Steps to reproduce:**
 
-1.Go to https://www.demoblaze.com/index.html
-2.Press Cart on header
-3.Press the “Place order” button
-4.Fill in the fields
-5.Press “Purchase“
+  1. Go to https://www.demoblaze.com/index.html
+  2. Press Cart on header
+  3. Press the “Place order” button
+  4. Fill in the fields
+  5. Press “Purchase“
 
 **Expected result:**
 
@@ -215,9 +215,9 @@ A user can easily access other accounts than theirs, by simply clicking it.
 
 **Steps to reproduce:**
 
-1. Go to XYZ Bank (globalsqa.com)
-2. Choose Customer login
-3. Click on "Your name"
+  1. Go to XYZ Bank (globalsqa.com)
+  2. Choose Customer login
+  3. Click on "Your name"
 
 **Expected result:**
 
@@ -247,9 +247,9 @@ For the welcome message are used different font sizes.
 
 **Steps to reproduce:**
 
-1.Go to XYZ Bank (globalsqa.com)
-2.Press Customer login.
-3.Choose a customer
+  1. Go to XYZ Bank (globalsqa.com)
+  2. Press Customer login.
+  3. Choose a customer
 
 **Expected result:**
 
