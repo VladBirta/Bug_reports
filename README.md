@@ -16,9 +16,9 @@ The user is not logged in and no error message is displayed.
 
 **Steps to reproduce:**
 
-  1.Go to www.website.com/login
-  2.Add correct user/pass
-  3.Press login button
+  1. Go to www.website.com/login
+  2. Add correct user/pass
+  3. Press login button
 
 
 **Expected result:**
@@ -115,11 +115,11 @@ The login function can be done by accessing a different URL.
 
 **Steps to reproduce:**
 
-  1.Go to STORE
-  2.Log in
-  3.Copy the URL
-  4.Open a new tab
-  5.Paste it the search bar
+  1. Go to STORE
+  2. Log in
+  3. Copy the URL
+  4. Open a new tab
+  5. Paste it the search bar
 
 **Expected result:**
 
