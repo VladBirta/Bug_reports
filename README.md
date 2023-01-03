@@ -4,6 +4,10 @@ Below are some bug reports that I did while working on previous projects.
 
 -----------------
 
+**Title:**
+
+Log in with correct credentials
+
 **Priority&Severity:**
 
 P2
